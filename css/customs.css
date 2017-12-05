@@ -1,0 +1,65 @@
+
+
+
+
+.green-box
+	{
+		color: #fff;
+		text-align: center;
+		background-color: #2DCE71;
+		height: 300px;
+		border: 5px solid #fff;
+		position: relative;
+	}
+
+.blue-box
+	{
+		color: #fff;
+		text-align: center;
+		background-color: #3598DB;
+		height: 150px;
+		border: 5px solid #fff;
+		position: relative;
+	}
+
+.red-box
+	{
+		color: #fff;
+		text-align: center;
+		background-color: #E84C3D;
+		height: 150px;
+		border: 5px solid #fff;
+		position: relative;
+	}
+
+.yellow-box
+	{
+		color: #fff;
+		text-align: center;
+		background-color: #F2C311;
+		height: 150px;
+		border: 5px solid #fff;
+		position: relative;
+	}
+
+.purple-box
+	{
+		color: #fff;
+		text-align: center;
+		background-color: #9B58B5;
+		height: 150px;
+		border: 5px solid #fff;
+		position: relative;
+	}
+
+
+h4 	{
+	    font-size: 18px;
+	    position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    transform: translate(-50%, -50%);
+	    padding: 0;
+	    margin: 0;
+	}
+
